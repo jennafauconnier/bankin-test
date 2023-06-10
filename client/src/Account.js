@@ -7,6 +7,8 @@ export default function Account() {
   const [roundedSum, setRoundedSum] = useState(0)
   const [accessToken, setAccessToken] = useState('')
 
+  // Ici j'aurais aimer pourvoir rajouter un input pour ne pas avoir a mettre les données en dur, ou même utilisé dotenv. 
+
   const email = "user1@mail.com"
   const password = "a!Strongp#assword1"
 
