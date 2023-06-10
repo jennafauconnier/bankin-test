@@ -14,7 +14,5 @@
 
 ### BACKEND
 
-Dillinger uses a number of open source projects to work properly:
-
 - Npm install at the root of the project
 - Npm start to start nodemon and run the server
